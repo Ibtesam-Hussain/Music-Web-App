@@ -1,3 +1,37 @@
+# MERN Music Web App  🎵 🎶 🎼 🎧 
+
+Music Web App is our latest Web Programming Project. Which includes :
+* Frontend
+    * React Js
+    * Tailwind CSS
+* Backend 
+    * MongoDB Atlas (NOSQL - DATABASE)
+    * Express Js
+    * Node Js
+* For Authentication Purposes we use
+    * JWT tokens 
+    * cookies
+
+This Project is totally inspired by Spotify. A User can play, explore and save their favourite songs 🥁 📻 🎺 🎻 🎙️
+
+# Project Visuals
+Below is some screenshots attached 
+![Landing Page](https://github.com/user-attachments/assets/d134899f-7180-4107-8d4c-5c8fc8bf5b4b)
+
+![Login Page](https://github.com/user-attachments/assets/00ccabab-8c0a-4acd-b006-83f98cf48443)
+
+![Registration Page](https://github.com/user-attachments/assets/5e6dbae0-0400-4d4b-aa75-7f590df93879)
+
+![HomePage](https://github.com/user-attachments/assets/b238ad78-265a-4349-b74d-5ada66546be5)
+
+![Songs](https://github.com/user-attachments/assets/1048651b-3fdc-417a-b7a0-76713019c926)
+
+![Artists](https://github.com/user-attachments/assets/09c12145-24ad-435e-a4b2-b6070381b85d)
+
+![Saved Songs](https://github.com/user-attachments/assets/bddde4a4-70d3-4f4d-a460-73a52ba267ef)
+
+And many other features. Download it and enjoy 🧡💙😀
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
